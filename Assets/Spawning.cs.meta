@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e0241d6be562496499b2e5bb9b0e3d59
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - serverPrefab: {fileID: 151614636192497894, guid: b4f80df4fdcab384d9e4a68f2ec01ec9, type: 3}
+  - ServerPartPrefab: {fileID: 9133347758317282687, guid: 956388ba783a46d4fbccdb5d27ddf93e, type: 3}
+  - table: {fileID: 5319902944350278263, guid: 6656686f7ae6a3f4c8bb07121c18e117, type: 3}
+  - serverPart: {fileID: 4183530988541477141, guid: 956388ba783a46d4fbccdb5d27ddf93e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
